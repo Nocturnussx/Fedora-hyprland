@@ -10,9 +10,9 @@
 
 <div align="center"> 
 
-![](https://img.shields.io/github/last-commit/EisregenHaha/fedora-hyprland?&style=for-the-badge&color=8ad7eb&logo=git&logoColor=D9E0EE&labelColor=1E202B)
-![](https://img.shields.io/github/stars/EisregenHaha/fedora-hyprland?style=for-the-badge&logo=andela&color=86dbd7&logoColor=D9E0EE&labelColor=1E202B)
-![](https://img.shields.io/github/repo-size/EisregenHaha/fedora-hyprland?color=86dbce&label=SIZE&logo=protondrive&style=for-the-badge&logoColor=D9E0EE&labelColor=26230e)
+![](https://img.shields.io/github/last-commit/Nocturnus/fedora-hyprland?&style=for-the-badge&color=8ad7eb&logo=git&logoColor=D9E0EE&labelColor=1E202B)
+![](https://img.shields.io/github/stars/Nocturnus/fedora-hyprland?style=for-the-badge&logo=andela&color=86dbd7&logoColor=D9E0EE&labelColor=1E202B)
+![](https://img.shields.io/github/repo-size/Nocturnus/fedora-hyprland?color=86dbce&label=SIZE&logo=protondrive&style=for-the-badge&logoColor=D9E0EE&labelColor=26230e)
 <a href="https://discord.gg/GtdRBXgMwq"> <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscordapp.com%2Fapi%2Finvites%2FGtdRBXgMwq%3Fwith_counts%3Dtrue&query=approximate_member_count&style=for-the-badge&logo=discord&logoColor=D9E0EE&label=discord&labelColor=%231E202B&color=86dbc0&link=https%3A%2F%2Fdiscord.gg%2FGtdRBXgMwq"> </a>
 
 </div>
@@ -55,12 +55,12 @@ By the way...
 Run the automatic installer:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/EisregenHaha/fedora-hyprland/f42/setup.sh)
+bash <(curl -s https://raw.githubusercontent.com/Nocturnus/fedora-hyprland/f42/setup.sh)
 ```
 or if you are using fish shell (non-posix-compliant shell) then:
    
 ```bash
-bash -c "$(curl -s https://raw.githubusercontent.com/EisregenHaha/fedora-hyprland/f42/setup.sh)"
+bash -c "$(curl -s https://raw.githubusercontent.com/Nocturnus/fedora-hyprland/f42/setup.sh)"
 ```
 
 Then **reboot** and select the **Hyprland (non-uwsm)** session to log in.
